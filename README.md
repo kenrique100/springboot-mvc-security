@@ -6,3 +6,5 @@ Basic spring mvc security using thymeleaf to perform plane-text and bcrypt secur
 3. spring-boot-spring-mvc-security--login-form-error-message
 4. spring-boot-spring-mvc-security--logout
 5. spring-boot-spring-mvc-security--id-and-roles
+The Sql-scripts will have to be uploaded into a DB case study Mysql Workbench
+check application properties for sql configuration
